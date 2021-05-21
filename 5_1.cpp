@@ -22,7 +22,6 @@ int main(int argc, char ** argv)
         ++pos2;
     }
     std::cout << std::endl;
-
 	
 	system("pause");
 
