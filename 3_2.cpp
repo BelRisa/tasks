@@ -3,7 +3,6 @@
 #include<algorithm>
 #include<chrono>
 
-
 using namespace std;
 
 std::size_t hashsh(float x)
