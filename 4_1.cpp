@@ -5,9 +5,6 @@
 #include <ctime>
 
 
-
-bool is_prime(int & v);
-
 void print(const std::vector<int>& v0){
     for(auto i : v0)
     {
