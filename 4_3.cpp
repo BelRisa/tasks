@@ -4,7 +4,6 @@
 #include<random>
 #include <ctime>
 
-
 void print(const std::vector<int>& v0){
     for(auto i : v0)
     {
